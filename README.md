@@ -72,5 +72,3 @@ Start the server
 ```bash
   flask run
 ```
-
-## Screenshots

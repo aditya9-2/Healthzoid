@@ -72,3 +72,6 @@ Start the server
 ```bash
   flask run
 ```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
